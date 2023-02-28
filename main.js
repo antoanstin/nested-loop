@@ -13,5 +13,6 @@ function series(){
 			
 			
 			series();
+                        hai();
 			
 			
